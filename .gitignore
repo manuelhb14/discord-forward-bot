@@ -1,3 +1,4 @@
 .vscode/
 geckodriver.exe
 geckodriver.log
+keys.py
