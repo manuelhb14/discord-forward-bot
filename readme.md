@@ -16,7 +16,6 @@ Create keys.py file and add your Discord name and password to it.
 Example:
 
 ```python
-email = "john@mail.com"
+email = "one@mail.com"
 password = "12345abcde"
 ```
-
