@@ -12,4 +12,11 @@ Install [geckodriver](https://github.com/mozilla/geckodriver/releases) for Windo
 
 ## Step 2
 
-Add your Discord name and password to keys.py file.
+Create keys.py file and add your Discord name and password to it.
+Example:
+
+```python
+email = "john@mail.com"
+password = "12345abcde"
+```
+
