@@ -2,3 +2,4 @@
 geckodriver.exe
 geckodriver.log
 keys.py
+__pycache__/
