@@ -1,7 +1,6 @@
 # Discord bot to forward messages from Discord Channel to Telegram Channel
 
-## Using [selenium](https://selenium-python.readthedocs.io/installation.html) library
-## Only tested on Windows
+## Using [selenium](https://selenium-python.readthedocs.io/installation.html) library (Only tested on Windows).
 
 This project will send all new messages from a channel to a Telegram Channel/Bot/Group/Chat without using Discord bots so you don't have to be an administrator of the Discord group you want to forward the message from.
 
