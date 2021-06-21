@@ -23,7 +23,8 @@ def select_group(group, driver):
     group.click()
 
 def select_channel(channel, driver):
-    channel = driver.find_element_by_xpath("/html/body/div/div[2]/div/div[2]/div/div/div/div[2]/div[1]/nav/div[{}]/div/div[14]/div/div/a".format(channel+2)) 
+    # channel = driver.find_element_by_xpath("/html/body/div/div[2]/div/div[2]/div/div/div/div[2]/div[1]/nav/div[{}]/div/div[14]/div/div/a".format(channel+2)) 
+    channel = driver.find_element_by_xpath("/html/body/div/div[2]/div/div[2]/div/div/div/div[2]/div[1]/nav/div[4]/div/div[3]/div/div/a".format(channel+2)) 
     time.sleep(2)
     channel.click()
 
