@@ -10,7 +10,9 @@ If you are the administrator of the group we will be creating a Discord bot for 
 
 Install [geckodriver](https://github.com/mozilla/geckodriver/releases) on this directory.
 
-## Step 2.1
+### Step 2
+
+#### Step 2.1
 
 Create keys.py file and add your Discord name and password to it.
 Example:
@@ -20,7 +22,7 @@ email = "one@mail.com"
 password = "12345abcde"
 ```
 
-## Step 2.2
+#### Step 2.2
 
 Add your Telegram bot token and chat ID.
 Example:
